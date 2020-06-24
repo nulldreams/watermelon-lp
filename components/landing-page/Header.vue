@@ -1,5 +1,5 @@
 <template>
-  <section class="hero is-white is-fullheight">
+  <section class="hero pink-melon is-fullheight">
     <!-- Hero head: will stick at the top -->
     <div class="hero-head">
       <header class="navbar">
@@ -21,15 +21,15 @@
           </div>
           <div class="column is-6 is-offset-1">
             <h1 class="title is-2">
-              <span class="has-text-danger">Water</span
-              ><span class="has-text-success">melon</span>
+              <span class="has-text-danger-custom">Water</span
+              ><span class="has-text-success-custom">melon</span>
             </h1>
             <h2 class="subtitle is-4">
               Let this cover page describe a product or service.
             </h2>
             <br />
             <p class="has-text-centered">
-              <a class="button is-medium is-danger">
+              <a class="button is-medium is-danger-custom">
                 Learn more
               </a>
             </p>
